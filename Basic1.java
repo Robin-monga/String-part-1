@@ -1,3 +1,6 @@
+//Q1.	WAP to accept a String from User and Display it Back on Screen
+
+
 package String_Student;
 import java.util.Scanner;
 
